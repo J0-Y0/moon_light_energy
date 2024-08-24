@@ -48,6 +48,6 @@ An interactive dashboard has been developed using Streamlit, available in the da
 4. **Get the EDA  under the `notebooks/` directory:**
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
