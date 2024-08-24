@@ -22,7 +22,7 @@ The primary data analysis work is located in the `EDA_analysis.ipynb` notebook u
 - **Data Cleaning:** Handling anomalies and filling missing values.
 - **Wind Analysis:** Using Polar plots to analyze wind speed and direction.
 
-Further details about the analysis can be found in the `README.md` within the `notebooks/` folder.
+Further details about the analysis can be found in the [README.md](/notebooks/README.md)  within the `notebooks/` folder.
 
 # Streamlit Dashboard
 
@@ -33,7 +33,7 @@ An interactive dashboard has been developed using Streamlit, available in the da
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/J0-Y0/moon_light_energy.git
    cd moon_light_energy
 2. **Create a virtual environment:**
 
